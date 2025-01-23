@@ -1,1 +1,37 @@
-# Kah1409.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .imagem {
+          float: left; /* ou right, se preferir a imagem à direita */
+          margin-right: 10px; /* espaço entre as imagens */
+        }
+      </style>
+        <meta charset="UTF-8">
+        <title>Mitologia grega</title>
+    </head>
+    <body>
+        <h1>A importancia do mitos para os gregos</h1>
+        <p>Os mitos gregos eram mais do que histórias fantásticas; eles explicavam fenômenos naturais, transmitiam valores morais e culturais, e reforçavam a identidade coletiva dos gregos. Serviam para entender o mundo ao redor e dar sentido à vida e à morte. Além disso, preservavam a história e as tradições, passando conhecimento de geração em geração. Os mitos ajudavam a explicar eventos que os gregos antigos não conseguiam compreender, atribuindo-os a seres poderosos e divinos. Eles também eram uma forma de entretenimento e uma maneira de ensinar lições importantes sobre a vida e a sociedade. </p>
+        <p>Por isso nessa página veremos:</p>
+        <p><ol>
+            <li><a href="#O-começo-de-tudo">O começo de tudo</a></li>
+            <li>Segundo tópico</li>
+            <li>Terceiro tópico</li></p>
+        </ol>
+        <h2 id="O-começo-de-tudo">O começo de tudo</h2>
+        <p>Tudo começou com caos uma figura escura e vazio. Do caos, surgiram Gaia (a Terra), Tártaro (o submundo), Eros (o amor), Érebo (a escuridão) e Nix (a noite). Gaia, sozinha, deu origem a Urano (o céu), que se tornou seu consorte. Juntos, Gaia e Urano geraram os Titãs, os Ciclopes e os Hecatônquiros (gigantes de cem braços).<p>Urano, temendo o poder de seus filhos, aprisionou-os no ventre de Gaia. Insatisfeita, Gaia conspirou com seu filho mais novo, Cronos, para derrubar Urano. Cronos castrou Urano com uma foice e assumiu o controle do universo. No entanto, Cronos também temia ser derrubado por seus próprios filhos e, por isso, devorava-os ao nascer. Sua esposa, Reia, conseguiu salvar um de seus filhos, Zeus, que eventualmente derrotou Cronos e libertou seus irmãos, estabelecendo-se como o rei dos deuses.</p>
+    
+        <figure>
+            <figcaption>Caos primeiro ser da mitologia</figcaption>
+            <img src="caos deus grego mitologia.jpg" alt="Caos" width="600" class="imagem">
+        </figure>
+        <figure>
+            <figcaption>Urano e gaia um sobre o outro</figcaption>
+            <img src="OIP.jpg" alt="Urano e gaia deitados um sobre o outro" width="500" class="imagem">
+        </figure>
+    </body>
+</html>
